@@ -18,7 +18,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <main className="h-screen">
-          <h1 className="absolute top-5 left-5 z-10">Welcome My friends</h1>
+          <h1 className="absolute top-5 left-5 z-10">
+            Welcome My Lingvano friends
+          </h1>
           {children}
         </main>
       </body>
