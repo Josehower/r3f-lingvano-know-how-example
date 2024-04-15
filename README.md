@@ -12,3 +12,5 @@
   - Insert Orbit Navigation controls
 - Introduction to Leva
   - Use leva for controls
+
+This example was inspired from https://codesandbox.io/p/sandbox/environment-blur-and-transitions-pj7zjq?file=%2Fpackage.json
